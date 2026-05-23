@@ -1,4 +1,4 @@
-# 🚀 Feature Engineering with Scikit-Learn (Titanic Case Study)
+# 🚀 Feature Engineering with SkLearn (Titanic Case Study)
 
 This project demonstrates **feature engineering and model building** using the Titanic dataset with and without **scikit-learn Pipelines**.  
 It covers preprocessing (imputation, encoding), model training, pipeline creation, model saving (pickling), and prediction workflows.
@@ -7,9 +7,7 @@ It covers preprocessing (imputation, encoding), model training, pipeline creatio
 
 
 
----
 
-## 📌 Topics Covered
 
 - **Intro to Feature Engineering**
 - **Scikit-Learn Pipelines**
