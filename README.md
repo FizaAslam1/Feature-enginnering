@@ -1,4 +1,4 @@
-# 🚀 Feature Engineering with SkLearn (Titanic Case Study)
+# 🚀 Feature Engineering with SickitLearn (Titanic Case Study)
 
 This project demonstrates **feature engineering and model building** using the Titanic dataset with and without **scikit-learn Pipelines**.  
 It covers preprocessing (imputation, encoding), model training, pipeline creation, model saving (pickling), and prediction workflows.
@@ -62,6 +62,3 @@ import pickle
 clf = pickle.load(open("module/clf.pkl", "rb"))
 ohe_sex = pickle.load(open("module/ohe_sex.pkl", "rb"))
 ohe_embarked = pickle.load(open("module/ohe_embarked.pkl", "rb"))
-
-# Preprocess manually before passing to classifier
-
